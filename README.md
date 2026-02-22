@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior Computer Science/Data Science student at Rutgers University, focusing on building projects in software development, algorithms, and data-driven applications.
+I am a junior Computer Science/Data Science student at Rutgers University, focusing on building projects in software development and data analytics.
 
 
 ## 🌐 Socials:
